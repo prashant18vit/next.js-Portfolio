@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: 'Quiz APpppppppppppppppp',
+    title: 'Quiz APp',
     description: "Using .Django, HTML, CSS, Javascript, Char JS, This app provides user with a complete Dashboard for managing studensts marks therir exams.",
       image: '/images/1.jpeg',
       tags: ['Django', 'JavaScript', 'Mysql'],
